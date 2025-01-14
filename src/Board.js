@@ -1,5 +1,4 @@
 import React from 'react';
-import Dragula from 'dragula';
 import 'dragula/dist/dragula.css';
 import Swimlane from './Swimlane';
 import './Board.css';
